@@ -1,0 +1,58 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 400 400] /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 200 >>
+stream
+BT /F1 12 Tf 50 350 Td
+ALEXANDER WRIGHT
+San Francisco, CA | (415) 555-0192 | alex.wright@email.com | github.com/alexwright | linkedin.com/in/alexwright
+
+PROFESSIONAL SUMMARY
+Senior Full-Stack Engineer with 6+ years of experience designing and deploying distributed cloud web applications. Proven track record improving system latency by 45% and leading engineering teams across React, TypeScript, Python, FastAPI, and AWS microservice environments.
+
+WORK EXPERIENCE
+Senior Full-Stack Engineer | TechNova Solutions | San Francisco, CA | 2022 - Present
+* Architected and delivered high-concurrency microservices using FastAPI, Python, and PostgreSQL, handling 15M+ daily requests.
+* Spearheaded migration from legacy monolithic frontend to React, TypeScript, and Tailwind CSS, reducing page load times by 42%.
+* Implemented distributed caching layer with Redis, reducing primary database load by 35% during peak traffic spikes.
+* Mentored 5 junior and mid-level software engineers through structured code reviews and system architecture design sessions.
+
+Full-Stack Developer | Apex Digital Systems | San Jose, CA | 2019 - 2022
+* Engineered RESTful APIs and interactive web portals utilizing Node.js, Express, React, and MongoDB.
+* Automated CI/CD pipelines via GitHub Actions and Docker containers, cutting release deployment duration from 4 hours to 15 minutes.
+* Integrated Stripe payment gateway with webhook verification and zero-downtime ledger reconciliation.
+* Collaborated in 2-week Agile/Scrum sprints with product managers and UX designers to deliver enterprise customer dashboards.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of California, Berkeley | 2015 - 2019
+GPA: 3.82 / 4.0 | Dean's Honor List
+
+TECHNICAL SKILLS
+* Programming: Python, TypeScript, JavaScript, SQL, Go, HTML5, CSS3
+* Frameworks: React, Next.js, FastAPI, Node.js, Express, Tailwind CSS
+* Databases: PostgreSQL, MongoDB, Redis, SQLAlchemy
+* Cloud & DevOps: AWS (EC2, S3, Lambda, ECS), Docker, Kubernetes, CI/CD (GitHub Actions), Linux
+* Practices: System Design, Microservices, REST APIs, GraphQL, Unit Testing (Pytest, Jest), Agile/Scrum
+
+KEY PROJECTS
+* CloudScale Analytics Platform: High-throughput telemetry processing pipeline built with Go, Redis, and React dashboard.
+* AI Document Summarizer: Microservice utilizing FastAPI and vector embeddings to extract key insights from technical PDFs.
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+500
+%%EOF
